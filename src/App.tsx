@@ -1,4 +1,3 @@
-import React from "react";
 import { Routes, Route } from "react-router-dom";
 import CitadelLayout from "./pages/Home.tsx"; // your current App content
 import CV from "./pages/cv.tsx"; // new CV page
